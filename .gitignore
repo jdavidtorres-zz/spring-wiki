@@ -1,6 +1,11 @@
 HELP.md
+
+### Gradle files ###
 .gradle
+gradle/
 build/
+gradlew
+gradlew.bat
 
 ### STS ###
 .apt_generated
